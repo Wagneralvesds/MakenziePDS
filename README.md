@@ -1,2 +1,0 @@
-# MakenziePDS
-Ciência de Dados 
